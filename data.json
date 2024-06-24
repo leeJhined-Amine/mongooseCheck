@@ -1,0 +1,22 @@
+[
+    {
+        "name": "John Doe",
+        "age": 30,
+        "favoriteFood": "Pizza"
+    },
+    {
+        "name": "Jane Smith",
+        "age": 25,
+        "favoriteFood": "Sushi"
+    },
+    {
+        "name": "Emily Johnson",
+        "age": 22,
+        "favoriteFood": "Ice Cream"
+    },
+    {
+        "name": "Michael Brown",
+        "age": 35,
+        "favoriteFood": "Steak"
+    }
+]
